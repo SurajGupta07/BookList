@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-var bookList = {
+let bookList = {
   JAVASCRIPT: [
     {
       name: "Eloquent JavaScript",
